@@ -1,4 +1,4 @@
-<?php /* Smarty version Smarty-3.1.19, created on 2019-03-04 14:11:54
+<?php /* Smarty version Smarty-3.1.19, created on 2019-03-04 16:22:20
          compiled from "/var/www/html/test-prestashop/modules/mymodcomments/views/templates/hook/getContent.tpl" */ ?>
 <?php /*%%SmartyHeaderCode:11864565515c7d0c8891ce50-74755351%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
 $_valid = $_smarty_tpl->decodeProperties(array (
@@ -7,7 +7,7 @@ $_valid = $_smarty_tpl->decodeProperties(array (
     '502dc468743b93095601e1dabe8ddff88d9a2519' => 
     array (
       0 => '/var/www/html/test-prestashop/modules/mymodcomments/views/templates/hook/getContent.tpl',
-      1 => 1551705106,
+      1 => 1551711029,
       2 => 'file',
     ),
   ),
